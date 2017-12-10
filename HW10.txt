@@ -1,0 +1,8 @@
+Plu1gin:
+1. .DS_Store
+2. pluginA.java
+3. pluginB.java
+Choose a plugin that you want to use:
+3
+B says hello!
+B says bye!
